@@ -4,13 +4,10 @@
 [![TP-Link](https://img.shields.io/badge/Vendor-TP--Link-green)](https://www.tp-link.com)
 [![Lab Ready](https://img.shields.io/badge/Environment-Lab%20Test%20Ready-yellowgreen)]()
 
-A structured network lab consisting of enterprise-grade and consumer hardware: routers, switches, access points, diagnostic tools, and essential cabling. Ideal for home labs, training environments, and hands-on practice.
 
 ---
 
 ## 🧪 Summary
-
-This lab demonstrates a complete network topology using:
 
 - ⚙️ Managed switches and routers for VLANs, routing, and diagnostics  
 - 📡 Wireless access points with PoE support  
@@ -18,7 +15,6 @@ This lab demonstrates a complete network topology using:
 - 🔍 USB testers and console cables for configuration and analysis  
 - 🧵 A wide variety of cables for flexible layout and structured wiring
 
-Each component is documented below with photos and explanations.
 
 ---
 
