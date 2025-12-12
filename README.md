@@ -29,18 +29,6 @@
 ---
 
 <details open>
-<summary>🔋 <strong>USB Power Diagnostic Tool</strong></summary>
-
-| ![Image 2](https://github.com/user-attachments/assets/3f8afcff-b352-4884-8e94-313d5b3b163f) | ![Image 3](https://github.com/user-attachments/assets/7c928e1e-0aa6-4f16-99eb-4226b6467327) |
-|:--:|:--:|
-| KCX-017 USB meter (front view) | KCX-017 with specs printed on back |
-
-Used to test voltage, current, and power draw from USB-powered networking tools during diagnostics.
-</details>
-
----
-
-<details open>
 <summary>🔌 <strong>TP-Link 5-Port Gigabit Switch</strong></summary>
 
 | ![Image 4](https://github.com/user-attachments/assets/ffb5e66f-01e0-4eae-8def-afcfae3a3825) | ![Image 5](https://github.com/user-attachments/assets/dab34a5a-1b49-4b9d-a68c-71fd7b725385) | ![Image 6](https://github.com/user-attachments/assets/ac2a1cbe-be71-47ca-b192-f9ec0ff0938d) |
